@@ -9,7 +9,7 @@
 |KPV|	PBS / Saline |	BAC water |	Usually straightforward; PBS may improve consistency.|
 |CJC-1295 no DAC|	Saline |	BAC water |	Generally easy to dissolve.|
 |Ipamorelin|	Saline |	BAC water |	Straightforward reconstitution profile.|
-|GHRP-2 / GHRP-6|	Saline |	BAC water	Usually dissolves easily.|
+|GHRP-2 / GHRP-6|	Saline |	BAC water |	Usually dissolves easily.|
 |Tesamorelin|	Saline |	BAC water |	Add solvent slowly and avoid shaking.|
 |Semaglutide|	BAC water |	Saline |	Commonly compatible with BAC water; avoid vigorous mixing.|
 |Tirzepatide|	BAC water |	Saline |	Dissolve slowly; allow time to clear if needed.|
