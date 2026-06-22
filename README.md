@@ -7,3 +7,5 @@
 * [Reconstitution Solution](Solvent.md)
 
 * Most tested from [Janoshik](top_peps_testing.md) : [youtube interview](https://www.youtube.com/watch?v=IOjTGQSh968&t=655s)
+
+* [N-AcetylEpitalonAmidate_vs_Epitalon.md](N-AcetylEpitalonAmidate_vs_Epitalon.md) 
