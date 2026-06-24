@@ -8,4 +8,6 @@
 
 * Most tested from [Janoshik](top_peps_testing.md) : [youtube interview](https://www.youtube.com/watch?v=IOjTGQSh968&t=655s)
 
-* [N-AcetylEpitalonAmidate_vs_Epitalon.md](N-AcetylEpitalonAmidate_vs_Epitalon.md) 
+* [N-AcetylEpitalonAmidate_vs_Epitalon.md](N-AcetylEpitalonAmidate_vs_Epitalon.md)
+
+* [TB-500](TB-500_Variants.md)
